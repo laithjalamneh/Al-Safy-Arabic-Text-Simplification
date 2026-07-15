@@ -1,0 +1,13 @@
+torch
+transformers
+datasets
+pandas
+numpy
+flask
+react
+accelerate
+sentencepiece
+rouge-score
+evaluate
+scikit-learn
+README.md
